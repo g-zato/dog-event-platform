@@ -1,2 +1,2 @@
 # dog-event-platform
-Web App básico para inscrição e criação de eventos
+Basic web app where users can create, share and subscribe to dog related events. When creating a dog event, a random dog image will be used as the thumbnail.
